@@ -227,5 +227,3 @@ pytest
 - [Docker Documentation](https://docs.docker.com/)
 
 ---
-
-**Note**: This is an interview project for Zapier. The application demonstrates modern full-stack development practices and workflow detection capabilities.
