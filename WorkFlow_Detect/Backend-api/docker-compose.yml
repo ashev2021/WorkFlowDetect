@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: zapier-workflow-api
+    container_name: za-workflow-api
     ports:
       - "8000:8000"
     environment:
