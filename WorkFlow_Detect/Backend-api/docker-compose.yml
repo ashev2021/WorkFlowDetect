@@ -16,9 +16,9 @@ services:
       - .:/app
       - /app/__pycache__
     networks:
-      - zapier-network
+      - za-network
     restart: unless-stopped
 
 networks:
-  zapier-network:
+  za-network:
     driver: bridge
