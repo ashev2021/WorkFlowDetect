@@ -1,4 +1,6 @@
- Workflow Step Detection API
+ # Workflow Step Detection API
+
+> **📊 For a comprehensive analysis of this repository, see [ANALYSIS.md](ANALYSIS.md)**
 
 ## Overview
 
