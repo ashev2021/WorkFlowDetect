@@ -100,7 +100,4 @@ const ResultsDisplay = ({ results, isLoading }: ResultsDisplayProps) => {
   );
 };
 
-// Add missing import
-import { FileText } from "lucide-react";
-
 export default ResultsDisplay;
